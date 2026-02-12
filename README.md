@@ -1,3 +1,4 @@
+![Dashboard Preview](preview.gif)
 # 📊 Sana Store – Interactive Sales Dashboard (Excel)
 
 ## 📌 Project Overview
@@ -95,3 +96,4 @@ Aspiring Data Analyst | Excel | SQL | Power BI
 
 ## ⭐ If you like this project
 Give it a ⭐ and feel free to connect!
+
