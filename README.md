@@ -1,6 +1,5 @@
-![Dashboard Preview](preview.gif)
 # 📊 Sana Store – Interactive Sales Dashboard (Excel)
-
+![Dashboard Preview](preview.gif)
 ## 📌 Project Overview
 This project presents an **interactive Excel dashboard** created to analyze the annual sales performance of **Sana Store (2025)**.  
 The goal of the project is to transform raw transactional data into meaningful insights that support **data-driven business decisions**.
@@ -96,4 +95,5 @@ Aspiring Data Analyst | Excel | SQL | Power BI
 
 ## ⭐ If you like this project
 Give it a ⭐ and feel free to connect!
+
 
